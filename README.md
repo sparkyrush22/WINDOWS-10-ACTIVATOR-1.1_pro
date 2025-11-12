@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/25e81eae-ce7e-42a1-aa23-b5c2cf3f46c2" />
+
 # 🔑 Windows Activation Tool Pro - Ultimate Windows & Office Activator 2024
 
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
